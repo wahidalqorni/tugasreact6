@@ -1,0 +1,92 @@
+#judul{
+    color: red;
+}
+#subjudul{
+    color: blue;
+}
+.red-font{
+    color: red;
+    font-size: 24px;
+}
+h4{
+    color: chocolate;
+}
+.des {
+    font-size: 18px;
+}
+.menu-active{
+    color: black;
+}
+.thin-red-border {
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 16px;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+.btn {
+    width: 80px;
+    margin: 16px;
+    padding: 4px;
+}
+.card {
+    border-radius: 24px;
+}
+.card h5 {
+    font-family: ubuntu;
+}
+.card:hover{
+    /* background-color: skyblue; */
+    cursor: pointer;
+    box-shadow: 2px 8px #b1aeae;
+}
+p{
+    display: block;
+}
+.Small{
+    color: #6c757d;
+    font-size: 80%;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.Card {
+    margin-top: 24px;
+    color: #212529;
+}
+.font-white {
+    color: white;
+}
+.jumbotron-background {
+    background: url("img/a3.jpeg") center center;
+    
+}
+.Jumbotron {
+    background: url("http://i66.tinypic.com/28am9fs.jpg");
+    color: #fff;
+    background-size: cover;
+    min-height: 300px;
+}
+.jumbo {
+    color: cadetblue !important;
+    background-color: aquamarine;
+    padding: 30px;
+    opacity: 0.8;
+    border-radius: 12px;
+}
+.white-text {
+    color: white;
+}
+.center {
+    text-align: center;
+}
+.footer-style {
+    height: 100%; 
+    margin-top: 80px;
+    color: white;
+    background-color: #343a40 !important;
+}
+.footer-style p {
+    padding: 90px;
+    text-align: center;
+}
